@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|c:\\users\\danie\\source\\repos\\prueba2p-pruebas\\prueba\\prueba\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|solutionrelative:prueba\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|c:\\users\\danie\\source\\repos\\prueba2p-pruebas\\prueba\\prueba\\migrations\\20250120225657_initalcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|solutionrelative:prueba\\migrations\\20250120225657_initalcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|c:\\users\\danie\\source\\repos\\prueba2p-pruebas\\prueba\\prueba\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|solutionrelative:prueba\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|c:\\users\\danie\\source\\repos\\prueba2p-pruebas\\prueba\\prueba\\controllers\\servicioadicionalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|solutionrelative:prueba\\controllers\\servicioadicionalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|c:\\users\\danie\\source\\repos\\prueba2p-pruebas\\prueba\\prueba\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|solutionrelative:prueba\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|c:\\users\\danie\\source\\repos\\prueba2p-pruebas\\prueba\\prueba\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|solutionrelative:prueba\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|c:\\users\\danie\\source\\repos\\prueba2p-pruebas\\prueba\\prueba\\controllers\\habitacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|solutionrelative:prueba\\controllers\\habitacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|c:\\users\\danie\\source\\repos\\prueba2p-pruebas\\prueba\\prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|solutionrelative:prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|c:\\users\\danie\\source\\repos\\prueba2p-pruebas\\prueba\\prueba\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{49EDB525-E0DC-4E1B-A51B-4365978E9B63}|Prueba\\Prueba.csproj|solutionrelative:prueba\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Prueba\\Migrations\\AppDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Prueba\\Migrations\\AppDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:32:08.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250120225657_InitalCreate3.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\Migrations\\20250120225657_InitalCreate3.cs",
+              "RelativeDocumentMoniker": "Prueba\\Migrations\\20250120225657_InitalCreate3.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\Migrations\\20250120225657_InitalCreate3.cs",
+              "RelativeToolTip": "Prueba\\Migrations\\20250120225657_InitalCreate3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:32:04.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicioAdicionalController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\Controllers\\ServicioAdicionalController.cs",
+              "RelativeDocumentMoniker": "Prueba\\Controllers\\ServicioAdicionalController.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\Controllers\\ServicioAdicionalController.cs",
+              "RelativeToolTip": "Prueba\\Controllers\\ServicioAdicionalController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:05:02.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Prueba\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\AppDBContext.cs",
+              "RelativeToolTip": "Prueba\\AppDBContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAywA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:45:37.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HabitacionController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\Controllers\\HabitacionController.cs",
+              "RelativeDocumentMoniker": "Prueba\\Controllers\\HabitacionController.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\Controllers\\HabitacionController.cs",
+              "RelativeToolTip": "Prueba\\Controllers\\HabitacionController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowGQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:03:53.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "Prueba\\Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "Prueba\\Controllers\\ReservaController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA5wDgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:04:17.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Prueba\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Prueba\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:03:00.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\.env",
+              "RelativeDocumentMoniker": "Prueba\\.env",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\.env",
+              "RelativeToolTip": "Prueba\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-20T22:54:49.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\Program.cs",
+              "RelativeDocumentMoniker": "Prueba\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\prueba2P-Pruebas\\Prueba\\Prueba\\Program.cs",
+              "RelativeToolTip": "Prueba\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:47:57.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

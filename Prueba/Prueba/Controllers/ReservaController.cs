@@ -89,6 +89,10 @@ namespace Prueba.Controllers
             var reserva = await _appDbContext.Reservas.FindAsync(id);
             if (reserva == null) return Ok("La reserva no existe");
 
+            var tieneServiciosAdicionales = await _appDbContext.ServiciosAdicionales.AnyAsync(s => s.Reserva.Id == id);
+            if (tieneServiciosAdicionales)
+                return Ok("La reserva no se puede eliminar porque está asociada a uno o más servicios adicionales");
+
             _appDbContext.Reservas.Remove(reserva);
             await _appDbContext.SaveChangesAsync();
 

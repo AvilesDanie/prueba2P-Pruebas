@@ -172,3 +172,4 @@ C:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\bin\Debug\net8.0\runt
 C:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\obj\Debug\net8.0\Prueba.sourcelink.json

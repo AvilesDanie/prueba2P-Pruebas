@@ -14,7 +14,6 @@ namespace Prueba.Controllers
             _appDbContext = appDbContext;
         }
 
-        // Método reutilizable para incluir relaciones comunes
         private IQueryable<ServicioAdicional> GetServiciosAdicionalesWithIncludes()
         {
             return _appDbContext.ServiciosAdicionales
@@ -23,7 +22,6 @@ namespace Prueba.Controllers
                 .Include(s => s.Reserva.Habitacion);
         }
 
-        // Método reutilizable para validar un servicio
         private async Task<(bool isValid, string message)> ValidateServicioAdicional(ServicioAdicional servicio)
         {
             if (string.IsNullOrWhiteSpace(servicio.Descripcion))

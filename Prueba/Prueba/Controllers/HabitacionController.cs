@@ -125,6 +125,10 @@ namespace Prueba.Controllers
             var habitacion = await _appDbContext.Habitaciones.FindAsync(id);
             if (habitacion == null) return Ok("La habitación no existe");
 
+            var tieneReservas = await _appDbContext.Reservas.AnyAsync(r => r.Habitacion.Id == id);
+            if (tieneReservas)
+                return Ok("La habitacion no se puede eliminar porque está asociado a una o más reservas");
+
             _appDbContext.Habitaciones.Remove(habitacion);
             await _appDbContext.SaveChangesAsync();
 

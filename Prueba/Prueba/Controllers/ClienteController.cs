@@ -69,12 +69,18 @@ namespace Prueba.Controllers
         public async Task<IActionResult> DeleteCliente(int id)
         {
             var cliente = await _appDbContext.Clientes.FindAsync(id);
-            if (cliente == null) return Ok("El cliente no existe");
+            if (cliente == null)
+                return Ok("El cliente no existe");
+
+            var tieneReservas = await _appDbContext.Reservas.AnyAsync(r => r.Cliente.Id == id);
+            if (tieneReservas)
+                return Ok("El cliente no se puede eliminar porque está asociado a una o más reservas");
 
             _appDbContext.Clientes.Remove(cliente);
             await _appDbContext.SaveChangesAsync();
             return Ok(new { message = $"Cliente con ID {id} ha sido eliminado correctamente" });
         }
+
 
         private static bool EsCedulaValida(string cedula)
         {
